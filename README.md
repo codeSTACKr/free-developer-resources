@@ -6,6 +6,10 @@
   - [Design Inspiration](#design-inspiration-)
   - [Design Tools](#design-tools-)
   - [Wireframe & Mockups](#wireframe&mockups-)
+  - [Templates](#templates-)
+  - [Fonts](#fonts-)
+  - [Wireframe & Mockups](#wireframe&mockups-)
+  - [Wireframe & Mockups](#wireframe&mockups-)
 
 
 ### Resources
@@ -18,26 +22,26 @@
 
 ## Design
 
-### Design Inspiration
+#### Design Inspiration
 
 - [Awwwards](https://www.awwwards.com/)
 - [Behance](https://www.behance.net/)
 - [Dribbble](https://dribbble.com/)
 - [Webframe](https://webframe.xyz/)
 
-### Design Tools
+#### Design Tools
 
 - [Adobe XD](https://www.adobe.com/products/xd.html)
 - [Figma](https://www.figma.com/)
 
-### Wireframe & Mockups
+#### Wireframe & Mockups
 
 - [AppMockUp](https://app-mockup.com/)
 - [MockuPhone](https://mockuphone.com)
 - [moqups](https://app.moqups.com)
 - [Wireframe.cc](https://wireframe.cc)
 
-### Templates
+#### Templates
 
 - [Wix](https://www.wix.com/)
 - [Squarespace](https://www.squarespace.com)
@@ -52,7 +56,7 @@
 - [Admin UI Themes](https://athemes.com/collections/free-bootstrap-admin-templates/)
 - [Ecommerce Themes](https://themewagon.com/free-html-ecommerce-templates-html5-bootstrap)
 
-### Fonts
+#### Fonts
 
 - [Google Fonts](https://fonts.google.com)
 - [Font Flipper](https://fontflipper.com/)
