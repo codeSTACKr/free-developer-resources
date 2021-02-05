@@ -5,9 +5,19 @@
 - [Design](#design)
   - [Design Inspiration](#design-inspiration)
   - [Design Tools](#design-tools)
-  - [Wireframe & Mockups](#wireframe&mockups)
-  - [Templates](#templates-)
+  - [Wireframe & Mockups](#wireframe-&-mockups)
+  - [Templates](#templates)
   - [Fonts](#fonts)
+  - [Colors](#colors)
+    - [Color Palettes](#color-palettes)
+    - [Gradients](#gradients)
+  - [Photos](#photos)
+  - [Icons](#icons)
+  - [Illustrations](#illustrations)
+  - [Patterns](#patterns)
+  - [Image Compression](#image-compression)
+  - [Background Remover](#background-remover)
+  
 
 
 ### Resources
