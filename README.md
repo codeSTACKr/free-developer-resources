@@ -1,11 +1,11 @@
 # Free Developer Resources
 
 ### Categories :
-- [Accessibility](accessibility)
-- [Design](design)
-  - [Design Inspiration](design-inspiration-)
-  - [Design Tools](design-tools-)
-  - [Wireframe & Mockups](wireframe&mockups-)
+- [Accessibility](#accessibility)
+- [Design](#design)
+  - [Design Inspiration](#design-inspiration-)
+  - [Design Tools](#design-tools-)
+  - [Wireframe & Mockups](#wireframe&mockups-)
 
 
 ### Resources
