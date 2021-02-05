@@ -3,11 +3,11 @@
 ### Categories :
 - [Accessibility](#accessibility)
 - [Design](#design)
-  - [Design Inspiration](#design-inspiration-)
-  - [Design Tools](#design-tools-)
-  - [Wireframe & Mockups](#wireframe&mockups-)
+  - [Design Inspiration](#design-inspiration)
+  - [Design Tools](#design-tools)
+  - [Wireframe & Mockups](#wireframe&mockups)
   - [Templates](#templates-)
-  - [Fonts](#fonts-)
+  - [Fonts](#fonts)
 
 
 ### Resources
