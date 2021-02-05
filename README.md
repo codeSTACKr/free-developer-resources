@@ -1,5 +1,15 @@
 # Free Developer Resources
 
+### Categories :
+- [Accessibility](accessibility)
+- [Design](design)
+  - [Design Inspiration](design-inspiration-)
+  - [Design Tools](design-tools-)
+  - [Wireframe & Mockups](wireframe&mockups-)
+
+
+### Resources
+
 ## Accessibility
 
 - [Accessibility Cheat-sheet](https://moritzgiessmann.de/accessibility-cheatsheet/)
