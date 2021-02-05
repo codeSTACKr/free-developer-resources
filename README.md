@@ -17,10 +17,41 @@
   - [Patterns](#patterns)
   - [Image Compression](#image-compression)
   - [Background Remover](#background-remover)
-  
+- [CSS](#css)
+  - [CSS Frameworks](#css-frameworks)
+  - [CSS Tools](#css-tools)
+- [Generators](#generators)
+- [Converters](#converters)
+- [Validation & Compatibility](#validation--compatibility)
+- [In-Browser Coding](#in-browser-coding)
+- [APIs](#apis)
+- [Developer Tools](#developer-tools)
+- [Chrome Extensions](#chrome-extensions)
+- [Domain Name Search Engine](#domain-name-search-engine)
+- [Hosting](#hosting)
+- [Database](#database)
+- [Authentication](#authentication)
+- [Responsiveness](#responsiveness)
+- [Site Analyzers](#site-analyzers)
+- [Project Management](#project-management)
+- [Speed Test](#speed-test)
+- [Documentation](#documentation)
+- [RoadMaps](#roadmaps)
+- [YouTube Channels](#youtube-channels)
+  - [General Web Dev](#general-web-dev)
+  - [Design & Front-End](#design--front-end)
+  - [Career & Advice](#career--advice)
+  - [DevOps](#devops)
+  - [Mobile](#mobile)
+  - [Blockchain](#blockchain)
+  - [Back End](#back-end)
+- [Books / Courses](#books--courses)
+- [Newsletters](#newsletters)
+- [Podcasts](#podcasts)
+- [Blogs](#blogs)
 
 
-### Resources
+### Resources : 
 
 ## Accessibility
 
