@@ -5,7 +5,7 @@
 - [Design](#design)
   - [Design Inspiration](#design-inspiration)
   - [Design Tools](#design-tools)
-  - [Wireframe & Mockups](#wireframe-mockups)
+  - [Wireframe & Mockups](#wireframe--mockups)
   - [Templates](#templates)
   - [Fonts](#fonts)
   - [Colors](#colors)
