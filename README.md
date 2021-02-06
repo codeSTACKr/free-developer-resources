@@ -204,6 +204,7 @@
 - [Flexplorer](https://bennettfeely.com/flexplorer/)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 - [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
+- [Specificity calculator](https://specificity.keegan.st/)
 - [CSS clip-path Maker](https://bennettfeely.com/clippy/)
 - [Custom Shape Dividers](https://www.shapedivider.app/)
 - [Fancy-Border-Radius](https://9elements.github.io/fancy-border-radius/)
@@ -234,6 +235,7 @@
 - [Meta Tags](https://metatags.io/)
 - [carbon](https://carbon.now.sh/) - Code Image
 - [codeimg](https://codeimg.io/) - Code Image
+- [htmldom](https://htmldom.dev/)
 
 ## Code Optimization
 
@@ -375,12 +377,15 @@
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - [DevDocs](https://devdocs.io/)
 - [DevHints](https://devhints.io/)
+- [Svelte](https://svelte.dev/)
+- [Sass](https://sass-lang.com/)
 
 ## RoadMaps
 
 - [Web Developer Roadmap 2021](https://youtu.be/7k7ETzqOxn8)
 - [All you NEED to Become a Web Developer](https://youtu.be/LTwFX-hitQo)
 - [The **Simplest** Web Developer Path for 2021](https://youtu.be/N6Nq62z2C6c)
+- [Roadmap](https://roadmap.sh/)
 
 ## YouTube Channels
 
@@ -390,11 +395,13 @@
 - [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
 - [Better Dev](https://www.youtube.com/channel/UCmXVXfidLZQkppLPaATcHag)
 - [Claudio Bernasconi](https://www.youtube.com/channel/UCTbHPk0bIOQwTXuGgD195bw)
+- [CodeDamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ)
 - [Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
 - [CoderOne](https://www.youtube.com/channel/UCMm15RFnHUvM-aSc50e7R9A)
 - [codeSTACKr](https://youtube.com/codeSTACKr)
 - [Code with Ania Kubów](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
 - [Coding Garden](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
+- [Coding Addict](https://www.youtube.com/c/CodingAddict)
 - [Codú Community](https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw)
 - [Colby Fayock](https://www.youtube.com/channel/UC7Wpv0Aft4NPNhHWW_JC4GQ)
 - [Dave Gray](https://www.youtube.com/channel/UCY38RvRIxYODO4penyxUwTg)
@@ -424,11 +431,14 @@
 
 - [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ)
 - [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+- [Franks Laboratory](https://www.youtube.com/channel/UCEqc149iR-ALYkGM6TG-7vQ)
 - [Jesse Showalter](https://www.youtube.com/channel/UCvBGFeXbBrq3W9_0oNLJREQ)
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
+- [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
 ### Career & Advice
 
+- [Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ)
 - [Ali Spittel](https://www.youtube.com/channel/UCOxxRhCHDqgtKplU_Ecu4BA)
 - [Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz/)
 - [Chau Codes](https://www.youtube.com/channel/UCBCMR6JnwHua6NfN5UhAsfg)
@@ -439,6 +449,7 @@
 - [CodingPhase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
 - [Dorian Develops](https://www.youtube.com/channel/UCUOMtzQmEmhIAF8G_cha_Xw)
 - [DThompsonDev](https://www.youtube.com/channel/UC8ha68gfkmh5v2a2BAx7low)
+- [Developer Habits](https://www.youtube.com/channel/UCJLZwePkNHps5Bv7VwISyTA)
 - [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA)
 - [Emma Bostian](https://www.youtube.com/channel/UCw7tRECQrNixDvSvL5NKYqw)
 - [Filip](https://www.youtube.com/channel/UCG7EBd-JrRZehNv9e5m1fQQ)
@@ -447,12 +458,15 @@
 - [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)
 - [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
 - [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
+- [Praveen Kumar Purushothaman](https://www.youtube.com/user/praveenscience)
 - [Randall Kanna](https://www.youtube.com/channel/UCqC9s1NAkvPidFpGBewPs2w)
 - [RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
 
 ### DevOps
 
 - [DevOps Directive](https://www.youtube.com/channel/UC4MdpjzjPuop_qWNAvR23JA)
+- [DanGitschooldude](https://www.youtube.com/c/DanGitschooldude)
+- [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
 
 ### Mobile
 
@@ -478,6 +492,7 @@
 - [JavaScript 30](https://javascript30.com/) - Wes Bos
 - [CSS GRID](https://cssgrid.io/) - Wes Bos
 - [freeCodeCamp.org](https://freecodecamp.org)
+- [Sitepoint](https://www.sitepoint.com)
 
 ## Newsletters
 
@@ -485,6 +500,7 @@
 - [Frontend Focus](https://frontendfoc.us)
 - [React Status](https://react.statuscode.com/)
 - [Bytesized](https://www.bytesized.xyz/)
+- [Flexbox Adventure](https://flexboxadventure.com/)
 
 ## Podcasts
 
