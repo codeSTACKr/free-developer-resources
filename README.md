@@ -66,6 +66,7 @@
 - [Awwwards](https://www.awwwards.com/)
 - [Behance](https://www.behance.net/)
 - [Dribbble](https://dribbble.com/)
+- [Onepagelove](https://onepagelove.com/inspiration)
 - [Webframe](https://webframe.xyz/)
 
 ### Design Tools
@@ -94,6 +95,7 @@
 - [HTML5xCSS3](https://www.html5xcss3.com/)
 - [Admin UI Themes](https://athemes.com/collections/free-bootstrap-admin-templates/)
 - [Ecommerce Themes](https://themewagon.com/free-html-ecommerce-templates-html5-bootstrap)
+- [Onepagelove](https://onepagelove.com/templates)
 
 ### Fonts
 
@@ -209,6 +211,7 @@
 - [Fancy-Border-Radius](https://9elements.github.io/fancy-border-radius/)
 - [Houdini.how](https://houdini.how/)
 - [Neumorphism.io](https://neumorphism.io/)
+- [Glassmorphism.com](https://glassmorphism.com/)
 - [3D Book](https://3dbook.xyz/)
 - [98.css](https://jdan.github.io/98.css/)
 - [Enjoy CSS](https://enjoycss.com/) - Online CSS Code Generator
