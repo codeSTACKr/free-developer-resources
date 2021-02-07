@@ -49,7 +49,7 @@
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
-- [Practise Tools](#Practise Tools(web dev))
+- [Practise Tools](#Practise)
 
 
 ### Resources : 
@@ -536,6 +536,6 @@
 - [Scotch.io](https://scotch.io)
 - [Smashing Magazine](https://www.smashingmagazine.com)
 
-## Practise Tools(web dev)
+## Practise
 - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 - [Clean-code in JS](https://github.com/ryanmcdermott/clean-code-javascript)
