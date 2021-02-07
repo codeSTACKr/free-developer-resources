@@ -49,6 +49,7 @@
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
+- [Practise Tools](#Practise Tools(web dev))
 
 
 ### Resources : 
@@ -200,7 +201,9 @@
 - [Tailwind Cheat-Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 
 ### CSS Tools
-
+- [flexbox](https://flexbox.io/)
+- [CSS GRID](https://cssgrid.io/)
+- [cssmastery](https://estelle.github.io/cssmastery/#slide1)
 - [CSS Button Generator](http://css3buttongenerator.com)
 - [Box Shadows](https://box-shadow.dev/)
 - [Flexplorer](https://bennettfeely.com/flexplorer/)
@@ -389,6 +392,7 @@
 - [All you NEED to Become a Web Developer](https://youtu.be/LTwFX-hitQo)
 - [The **Simplest** Web Developer Path for 2021](https://youtu.be/N6Nq62z2C6c)
 - [Roadmap](https://roadmap.sh/)
+- [Frontend Learning Path in 2021](https://www.youtube.com/watch?v=i5zRYMc7PFw)
 
 ## YouTube Channels
 
@@ -490,7 +494,7 @@
 - [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
 
 ## Books / Courses
-
+- [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 - [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [JavaScript 30](https://javascript30.com/) - Wes Bos
@@ -531,3 +535,7 @@
 - [React Blog](https://reactjs.org/blog)
 - [Scotch.io](https://scotch.io)
 - [Smashing Magazine](https://www.smashingmagazine.com)
+
+## Practise Tools(web dev)
+- [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+- [Clean-code in JS](https://github.com/ryanmcdermott/clean-code-javascript)
