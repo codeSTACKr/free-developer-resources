@@ -1,6 +1,7 @@
 # Free Developer Resources
 
 ### Categories :
+
 - [Accessibility](#accessibility)
 - [Design](#design)
   - [Design Inspiration](#design-inspiration)
@@ -50,8 +51,7 @@
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
 
-
-### Resources : 
+### Resources :
 
 ## Accessibility
 
@@ -103,6 +103,7 @@
 - [Font Flipper](https://fontflipper.com/)
 - [FontSpark](https://fontspark.app/)
 - [ColorAndFonts](https://www.colorsandfonts.com/)
+- [FontPair](https://fontpair.co/)
 
 ### Colors
 
