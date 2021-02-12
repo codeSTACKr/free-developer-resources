@@ -102,6 +102,8 @@
 - [Admin UI Themes](https://athemes.com/collections/free-bootstrap-admin-templates/)
 - [Ecommerce Themes](https://themewagon.com/free-html-ecommerce-templates-html5-bootstrap)
 - [Onepagelove](https://onepagelove.com/templates)
+- [Mashup Templates](http://www.mashup-template.com/templates.html)
+- [Cruip](https://cruip.com)
 
 ### Fonts
 
@@ -342,6 +344,7 @@
 - [Netlify](https://www.netlify.com/)
 - [Heroku](https://www.heroku.com/)
 - [Vercel](https://vercel.com/)
+- [Surge](https://surge.sh/)
 
 ## Database
 
