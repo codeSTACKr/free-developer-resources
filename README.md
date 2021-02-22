@@ -1,6 +1,6 @@
 # Free Developer Resources
 
-### Categories :
+## Table Of Contents:
 
 - [Accessibility](#accessibility)
 - [Design](#design)
@@ -54,8 +54,6 @@
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
 - [Practise](#practise)
-
-### Resources :
 
 ## Accessibility
 
