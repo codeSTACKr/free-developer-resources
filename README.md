@@ -1,58 +1,64 @@
 # Free Developer Resources
 
 ### Categories :
-- [Accessibility](#accessibility)
-- [Design](#design)
-  - [Design Inspiration](#design-inspiration)
-  - [Design Tools](#design-tools)
-  - [Wireframe & Mockups](#wireframe--mockups)
-  - [Templates](#templates)
-  - [Fonts](#fonts)
-  - [Colors](#colors)
-    - [Color Palettes](#color-palettes)
-    - [Gradients](#gradients)
-  - [Photos](#photos)
-  - [Icons](#icons)
-  - [Illustrations](#illustrations)
-  - [Patterns](#patterns)
-  - [Image Compression](#image-compression)
-  - [Background Remover](#background-remover)
-- [CSS](#css)
-  - [CSS Frameworks](#css-frameworks)
-  - [CSS Tools](#css-tools)
-- [Generators](#generators)
-- [Converters](#converters)
-- [Validation & Compatibility](#validation--compatibility)
-- [In-Browser Coding](#in-browser-coding)
-- [APIs](#apis)
-- [Developer Tools](#developer-tools)
-- [Chrome Extensions](#chrome-extensions)
-- [Domain Name Search Engine](#domain-name-search-engine)
-- [Hosting](#hosting)
-- [Database](#database)
-- [Authentication](#authentication)
-- [Responsiveness](#responsiveness)
-- [Site Analyzers](#site-analyzers)
-- [Project Management](#project-management)
-- [Speed Test](#speed-test)
-- [Documentation](#documentation)
-- [RoadMaps](#roadmaps)
-- [YouTube Channels](#youtube-channels)
-  - [General Web Dev](#general-web-dev)
-  - [Design & Front-End](#design--front-end)
-  - [Career & Advice](#career--advice)
-  - [DevOps](#devops)
-  - [Mobile](#mobile)
-  - [Blockchain](#blockchain)
-  - [Back End](#back-end)
-- [Books / Courses](#books--courses)
-- [Newsletters](#newsletters)
-- [Podcasts](#podcasts)
-- [Blogs](#blogs)
-- [Practise Tools](#Practise)
 
+- [Free Developer Resources](#free-developer-resources)
+    - [Categories :](#categories-)
+    - [Resources :](#resources-)
+  - [Accessibility](#accessibility)
+  - [Design](#design)
+      - [Design Inspiration](#design-inspiration)
+    - [Design Tools](#design-tools)
+    - [Wireframe & Mockups](#wireframe--mockups)
+    - [Templates](#templates)
+    - [Fonts](#fonts)
+    - [Colors](#colors)
+      - [Color Palettes](#color-palettes)
+      - [Gradients](#gradients)
+  - [Image Resources](#image-resources)
+    - [Photos](#photos)
+    - [Icons](#icons)
+    - [Illustrations](#illustrations)
+    - [Patterns](#patterns)
+    - [Image Compression](#image-compression)
+    - [Background Remover](#background-remover)
+  - [CSS](#css)
+    - [CSS Frameworks](#css-frameworks)
+    - [CSS Tools](#css-tools)
+    - [CSS Animation](#css-animation)
+  - [Generators](#generators)
+  - [Code Optimization](#code-optimization)
+  - [Converters](#converters)
+  - [Validation & Compatibility](#validation--compatibility)
+  - [In-Browser Coding](#in-browser-coding)
+  - [APIs](#apis)
+  - [Developer Tools](#developer-tools)
+  - [Chrome Extensions](#chrome-extensions)
+  - [Domain Name Search Engine](#domain-name-search-engine)
+  - [Hosting](#hosting)
+  - [Database](#database)
+  - [Authentication](#authentication)
+  - [Responsiveness](#responsiveness)
+  - [Site Analyzers](#site-analyzers)
+  - [Project Management](#project-management)
+  - [Speed Test](#speed-test)
+  - [Documentation](#documentation)
+  - [RoadMaps](#roadmaps)
+  - [YouTube Channels](#youtube-channels)
+    - [General Web Dev](#general-web-dev)
+    - [Design & Front-End](#design--front-end)
+    - [Career & Advice](#career--advice)
+    - [DevOps](#devops)
+    - [Mobile](#mobile)
+    - [Blockchain](#blockchain)
+    - [Back End](#back-end)
+  - [Books / Courses](#books--courses)
+  - [Newsletters](#newsletters)
+  - [Podcasts](#podcasts)
+  - [Blogs](#blogs)
+  - [Practise](#practise)
 
-### Resources : 
+### Resources :
 
 ## Accessibility
 
@@ -97,6 +103,8 @@
 - [Admin UI Themes](https://athemes.com/collections/free-bootstrap-admin-templates/)
 - [Ecommerce Themes](https://themewagon.com/free-html-ecommerce-templates-html5-bootstrap)
 - [Onepagelove](https://onepagelove.com/templates)
+- [Mashup Templates](http://www.mashup-template.com/templates.html)
+- [Cruip](https://cruip.com)
 
 ### Fonts
 
@@ -104,6 +112,7 @@
 - [Font Flipper](https://fontflipper.com/)
 - [FontSpark](https://fontspark.app/)
 - [ColorAndFonts](https://www.colorsandfonts.com/)
+- [FontPair](https://fontpair.co/)
 
 ### Colors
 
@@ -201,6 +210,7 @@
 - [Tailwind Cheat-Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 
 ### CSS Tools
+
 - [flexbox](https://flexbox.io/)
 - [CSS GRID](https://cssgrid.io/)
 - [cssmastery](https://estelle.github.io/cssmastery/#slide1)
@@ -338,6 +348,7 @@
 - [Netlify](https://www.netlify.com/)
 - [Heroku](https://www.heroku.com/)
 - [Vercel](https://vercel.com/)
+- [Surge](https://surge.sh/)
 
 ## Database
 
@@ -494,6 +505,7 @@
 - [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
 
 ## Books / Courses
+
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 - [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -535,7 +547,12 @@
 - [React Blog](https://reactjs.org/blog)
 - [Scotch.io](https://scotch.io)
 - [Smashing Magazine](https://www.smashingmagazine.com)
+- [Tania Rascia](https://www.taniarascia.com/)
+- [Edidiong Asikpo](https://edidiongasikpo.com/)
+- [Bolaji Ayodeji](https://blog.bolajiayodeji.com/)
+- [Catalin Pit](https://catalins.tech/)
 
 ## Practise
+
 - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 - [Clean-code in JS](https://github.com/ryanmcdermott/clean-code-javascript)
