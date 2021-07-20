@@ -79,6 +79,7 @@
 ### Wireframe & Mockups
 
 - [AppMockUp](https://app-mockup.com/)
+- [Rotato Mockup Generator](https://rotato.app)
 - [MockuPhone](https://mockuphone.com)
 - [moqups](https://app.moqups.com)
 - [Wireframe.cc](https://wireframe.cc)
@@ -316,6 +317,7 @@
 - [Clockify](https://clockify.me/) - Time Tracking
 - [Grammarly](https://app.grammarly.com/)
 - [Stack Overflow](https://stackoverflow.com/)
+- [Inspect](https://inspect.dev) - Debug websites on iOS from Mac & Windows
 - [Google](https://www.google.com/)
 - Chrome Developer Tools
 
