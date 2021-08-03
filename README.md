@@ -152,6 +152,8 @@
 - [Heroicons](https://heroicons.dev/)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Simple Icons](https://simpleicons.org/)
+- [Material Icons](https://fonts.google.com/icons)
+- [Feather](https://feathericons.com/)
 
 ### Illustrations
 
@@ -183,6 +185,7 @@
 - [jpegio](https://www.jpeg.io/)
 - [Squoosh](https://squoosh.app/)
 - [svgomg](https://jakearchibald.github.io/svgomg/)
+- [Compressor](https://compressor.io/)
 
 ### Background Remover
 
