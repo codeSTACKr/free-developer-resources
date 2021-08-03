@@ -100,6 +100,7 @@
 - [Onepagelove](https://onepagelove.com/templates)
 - [Mashup Templates](http://www.mashup-template.com/templates.html)
 - [Cruip](https://cruip.com)
+- [Themeselection](https://themeselection.com/)
 
 ### Fonts
 
@@ -318,6 +319,7 @@
 - [Stack Overflow](https://stackoverflow.com/)
 - [Google](https://www.google.com/)
 - Chrome Developer Tools
+- [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/)
 
 ## Chrome Extensions
 
