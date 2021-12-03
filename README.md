@@ -361,6 +361,7 @@
 
 - [Auth0](https://auth0.com/)
 - [Firebase Authentication](https://firebase.google.com/products/auth)
+- [MojoAuth](https://mojoauth.com)
 
 ## Responsiveness
 
