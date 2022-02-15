@@ -323,6 +323,7 @@
 - [Google](https://www.google.com/)
 - Chrome Developer Tools
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/)
+- [Sneat Free Bootstrap HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free)
 
 ## Chrome Extensions
 
