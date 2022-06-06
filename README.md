@@ -168,6 +168,8 @@
 - [manypixels Illustrations](https://www.manypixels.co/gallery)
 - [Mixkit Illustrations](https://mixkit.co/free-stock-art/)
 - [Delesign Illustrations](https://delesign.com/free-designs/graphics/)
+- [Illustrations figma](https://www.artify.co/illustrations-figma)
+
 
 ### Patterns
 
