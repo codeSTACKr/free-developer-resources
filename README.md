@@ -82,6 +82,7 @@
 - [MockuPhone](https://mockuphone.com)
 - [moqups](https://app.moqups.com)
 - [Wireframe.cc](https://wireframe.cc)
+- [TshirtDesigns](https://www.tshirtdesigns.com/mockups)
 
 ### Templates
 
@@ -154,6 +155,8 @@
 - [Simple Icons](https://simpleicons.org/)
 - [Material Icons](https://fonts.google.com/icons)
 - [Feather](https://feathericons.com/)
+- [3dicons](https://www.3dicons.com/)
+- [Iconshock](https://www.iconshock.com/)
 
 ### Illustrations
 
@@ -169,6 +172,7 @@
 - [Mixkit Illustrations](https://mixkit.co/free-stock-art/)
 - [Delesign Illustrations](https://delesign.com/free-designs/graphics/)
 - [Illustrations figma](https://www.artify.co/illustrations-figma)
+- [Vector Illustrations](https://www.artify.co/vector-illustrations)
 
 
 ### Patterns
@@ -188,6 +192,7 @@
 - [Squoosh](https://squoosh.app/)
 - [svgomg](https://jakearchibald.github.io/svgomg/)
 - [Compressor](https://compressor.io/)
+- [Optimizeimages](https://www.optimizeimages.com)
 
 ### Background Remover
 
