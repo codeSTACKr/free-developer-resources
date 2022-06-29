@@ -377,6 +377,7 @@
 - [Notion](https://www.notion.so/product)
 - [Trello](https://trello.com/)
 - [Coggle](https://coggle.it/)
+- [Taskade](https://taskade.com/)
 
 ## Speed Test
 
