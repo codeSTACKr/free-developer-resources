@@ -106,7 +106,6 @@
 
 - [Google Fonts](https://fonts.google.com)
 - [Font Flipper](https://fontflipper.com/)
-- [FontSpark](https://fontspark.app/)
 - [ColorAndFonts](https://www.colorsandfonts.com/)
 - [FontPair](https://fontpair.co/)
 
