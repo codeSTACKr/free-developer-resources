@@ -213,8 +213,8 @@
 - [flexbox](https://flexbox.io/)
 - [CSS GRID](https://cssgrid.io/)
 - [cssmastery](https://estelle.github.io/cssmastery/#slide1)
-- [CSS Button Generator](http://css3buttongenerator.com)
-- [Box Shadows](https://box-shadow.dev/)
+- [CSS Button Generator](https://www.htmlcssbuttongenerator.com/btnGenerator.html)
+- [Box Shadows](https://getcssscan.com/css-box-shadow-examples)
 - [Flexplorer](https://bennettfeely.com/flexplorer/)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 - [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
@@ -226,6 +226,7 @@
 - [Neumorphism.io](https://neumorphism.io/)
 - [Glassmorphism.com](https://glassmorphism.com/)
 - [3D Book](https://3dbook.xyz/)
+- [Glitch Font Generator] (https://www.htmlcssbuttongenerator.com/glitchGenerator.html)
 - [98.css](https://jdan.github.io/98.css/)
 - [Enjoy CSS](https://enjoycss.com/) - Online CSS Code Generator
 - [CSS Arrow Please](https://cssarrowplease.com/)
