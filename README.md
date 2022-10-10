@@ -186,6 +186,7 @@
 - [Squoosh](https://squoosh.app/)
 - [svgomg](https://jakearchibald.github.io/svgomg/)
 - [Compressor](https://compressor.io/)
+- [freetools.site](https://freetools.site/image-editors/reduce-file-size)
 
 ### Background Remover
 
