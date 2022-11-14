@@ -186,10 +186,12 @@
 - [Squoosh](https://squoosh.app/)
 - [svgomg](https://jakearchibald.github.io/svgomg/)
 - [Compressor](https://compressor.io/)
+- [pixcleaner](https://pixcleaner.com/)
 
 ### Background Remover
 
 - [removebg](https://www.remove.bg/)
+- [pixcleaner](https://pixcleaner.com/)
 
 ## CSS
 
