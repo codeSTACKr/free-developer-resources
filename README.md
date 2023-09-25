@@ -323,6 +323,7 @@
 - [Google](https://www.google.com/)
 - Chrome Developer Tools
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/)
+- [Materio Free Bootstrap 5 HTML Admin Template](https://themeselection.com/item/materio-free-bootstrap-html-admin-template/) - Open-source & Easy to use Free Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.
 
 ## Chrome Extensions
 
