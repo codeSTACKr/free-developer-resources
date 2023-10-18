@@ -349,6 +349,7 @@
 - [Heroku](https://www.heroku.com/)
 - [Vercel](https://vercel.com/)
 - [Surge](https://surge.sh/)
+- [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/)
 
 ## Database
 
