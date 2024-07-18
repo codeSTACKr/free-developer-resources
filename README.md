@@ -323,6 +323,7 @@
 - [Google](https://www.google.com/)
 - Chrome Developer Tools
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/)
+- [400+ Developer Tools](https://webcurate.co/c/developer)
 
 ## Chrome Extensions
 
