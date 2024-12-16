@@ -245,6 +245,7 @@
 - [JSON Generator](https://next.json-generator.com/) - Data Generator
 - [Favicon Generator](https://realfavicongenerator.net/)
 - [Free Favicon Maker](https://formito.com/tools/favicon)
+- [App Icon Generator](https://launchyourapp.dev/tools/app-icon-generator) - App Icon Generator
 - [SHA256 Hash Generator](https://passwordsgenerator.net/sha256-hash-generator/)
 - [Online UUID Generator](https://www.uuidgenerator.net/)
 - [Meta Tags](https://metatags.io/)
