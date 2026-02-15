@@ -311,6 +311,7 @@
 - [iHateRegex](https://ihateregex.io/) - Regex Cheat Sheet
 - [RegExr](https://regexr.com/) - Learn, Build, & Test RegEx
 - [regular expressions 101](https://regex101.com/) - Build, Debug, & Share regex
+- [NexTool](https://nextool.app/free-tools/) - 231+ free browser-based developer tools — JSON formatter, regex tester, PDF tools, color picker, hash generator, and more. 100% client-side, no signup.
 - [kite](https://www.kite.com/) - AI Coding Assistant
 - [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on websites
 - [HTML Entity Lookup](http://entity-lookup.leftlogic.com/)
