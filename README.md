@@ -60,6 +60,9 @@
 - [Accessibility Cheat-sheet](https://moritzgiessmann.de/accessibility-cheatsheet/)
 - [Accessible Brand Colors](https://abc.useallfive.com/)
 - [Colour Contrast Checker](https://www.websitehostingrating.com/color-contrast-perception-checker/)
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - Free tool to evaluate web accessibility by providing visual feedback about the accessibility of your web content
+- [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner for ADA and WCAG compliance testing with actionable recommendations
+- [axe DevTools](https://www.deque.com/axe/devtools/) - Browser extension for automated accessibility testing built on the open-source axe-core library
 
 ## Design
 
