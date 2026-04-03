@@ -295,6 +295,7 @@
 - [OpenWeather](https://openweathermap.org/guide)
 - [The Star Wars API](https://swapi.dev/)
 - [They Said So Quotes API](http://quotes.rest/)
+- [ToolPipe](https://toolpipe.dev) - 240+ free developer utility APIs (JSON/CSV, QR codes, hashing, UUID, DNS, base64, and more)
 - [Public API List](https://github.com/public-apis/public-apis)
 
 ## Developer Tools
