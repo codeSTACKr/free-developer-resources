@@ -299,6 +299,7 @@
 
 ## Developer Tools
 
+- [Nutilz](https://nutilz.com) - Free browser-based developer utilities: regex tester, JSON formatter, converters, and calculators
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Postman](https://www.postman.com/) - API & REST Client
 - [Insomnia](https://insomnia.rest/) - API & REST Client
