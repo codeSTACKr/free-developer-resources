@@ -154,6 +154,7 @@
 - [Simple Icons](https://simpleicons.org/)
 - [Material Icons](https://fonts.google.com/icons)
 - [Feather](https://feathericons.com/)
+- [SVGicons.com](https://svgicons.com/) - Search and browse open-source SVG icons across multiple icon sets, preview styles, and copy clean SVG code.
 
 ### Illustrations
 
