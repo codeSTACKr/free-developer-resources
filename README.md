@@ -180,6 +180,7 @@
 
 ### Image Compression
 
+- [ImgFlow](https://imgflow.taoliapp.com/en/)
 - [tinypng](https://tinypng.com/)
 - [tinyjpg](https://tinyjpg.com/)
 - [jpegio](https://www.jpeg.io/)
