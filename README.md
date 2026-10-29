@@ -189,6 +189,7 @@
 
 ### Background Remover
 
+- [HelpMyIMG](https://helpmyimg.com/) - Free in-browser background remover and image toolkit (100% client-side, no files uploaded)
 - [removebg](https://www.remove.bg/)
 
 ## CSS
