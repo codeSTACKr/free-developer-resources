@@ -323,6 +323,7 @@
 - [Google](https://www.google.com/)
 - Chrome Developer Tools
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/)
+- [agent-qa](https://vostride.com) - Free CLI for natural-language web and mobile QA with persistent memory and self-improvement (model/device costs separate; FSL-1.1-ALv2 restricts competing commercial use).
 
 ## Chrome Extensions
 
