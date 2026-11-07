@@ -267,6 +267,7 @@
 - [Sassmeister](https://www.sassmeister.com/) - SCSS to CSS
 - [HTML to Jade/Pug](http://www.html2jade.org/)
 - [Base64 Converter](https://pr.gg/base64/)
+- [KaijuConverter](https://kaijuconverter.com) - Universal online file converter supporting 100+ document, image, audio, video, and ebook formats
 
 ## Validation & Compatibility
 
